@@ -647,7 +647,7 @@ https://symbl.cc/en/unicode/blocks/tibetan/
 
 * Wylie 键盘
 
-Wylie 是基于 [[https://en.wikipedia.org/wiki/Wylie_transliteration][藏文拉丁转写]] 的输入法，是 Mac 上首选的藏文键盘。我在晚上还没有找到
+Wylie 是基于 [[https://en.wikipedia.org/wiki/Wylie_transliteration][藏文拉丁转写]] 的输入法，是 Mac 上首选的藏文键盘。我在网上还没有找到
 现成的码表， Mac 上的码表好像也不让导出，不过可以参考 Emacs 的设计
 https://git.savannah.gnu.org/cgit/emacs.git/tree/lisp/leim/quail/tibetan.el 和一
 下的资料
